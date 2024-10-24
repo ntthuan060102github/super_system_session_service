@@ -1,0 +1,17 @@
+requests
+django
+djangorestframework
+mysqlclient
+django-cors-headers
+python-decouple
+djangorestframework-simplejwt
+drf-yasg
+django_redis
+whitenoise
+firebase_admin
+django-cors-headers
+celery
+logtail-python
+
+../../helpers/dist/pkg_helpers-latest-py3-none-any.whl
+../../libs/dist/pkg_libs-latest-py3-none-any.whl

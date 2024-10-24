@@ -1,0 +1,17 @@
+{
+    "relational_database": {
+        "engine": "mysql",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "username": "root",
+        "password": "123123",
+        "db_name": "super_system"
+    },
+    "redis_database": {
+        "host": "127.0.0.1",
+        "port": "6379",
+        "username": "default",
+        "password": "",
+        "db": 0
+    }
+}

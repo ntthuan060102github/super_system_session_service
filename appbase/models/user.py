@@ -1,0 +1,1 @@
+from pkg_helpers.auth.user_model import User
